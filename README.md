@@ -8,3 +8,11 @@
 ### Example :
 ### print("Hello")
 ### print(String)
+#
+## 3. If Statement
+### if Object = Status
+###   Condition
+### elseif Object2 = status
+###   Condition
+### else
+###  Condition
